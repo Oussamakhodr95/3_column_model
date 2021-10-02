@@ -58,7 +58,7 @@ p{
 .card.very-dark-cyan .btn{
     color: var(--Very-dark-cyan);
 }
-.btn:hover{
+.card .btn:hover{
     background-color: transparent;
     color: var(--Transparent-white);
 }
